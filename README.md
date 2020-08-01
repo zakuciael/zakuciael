@@ -16,10 +16,10 @@ You can also know me as a developer of a not-yet-completed **NosTale server** em
 - [Xeno's Tale](https://xenostale.pl) a not-yet-completed **NosTale server** emulator.
 
 ### 💬 Get in touch
-- **Twitter**: _**https://twitter.com/zakuciael/**_
-- **Linkedin**: _**https://linkedin.com/in/zakuciael/**_
-- **Personal Site**: _**https://zakku.eu/**_
-- **Discord**: _**ZaKKu#0001**_
+- **Twitter**: **https://twitter.com/zakuciael/**
+- **Linkedin**: **https://linkedin.com/in/zakuciael/**
+- **Personal Site**: **https://zakku.eu/**
+- **Discord**: **ZaKKu#0001**
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
