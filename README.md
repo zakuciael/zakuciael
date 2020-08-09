@@ -12,7 +12,7 @@ You can also know me as a developer of a not-yet-completed NosTale server emulat
 - 👑 Oh, yeah **I’m also a weeb. (ノಠ益ಠ)ノ彡┻━┻**
 
 ### 💻 Currently working on
-- [Project: Schedule](https://github.com/zakuciael/project-schedule) a tool that converts **table schedules** into **calendar events and more**.
+- [Scheduler](https://github.com/zakuciael/scheduler) an universal **schedule parser** and **calendar event** creator.
 - [Xeno's Tale](https://xenostale.pl) a not-yet-completed **NosTale server** emulator.
 
 ### 💬 Get in touch
