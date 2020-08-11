@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I’m Krzysztoft</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I’m Krzysztof</h1>
 <h4 align="center">I’m a self-taught software developer looking to create tools that can solve people's problems.<br>
 You can also know me as a developer of a not-yet-completed NosTale server emulator called <a href="https://xenostale.pl">Xeno's Tale</a>.</h4>
 
