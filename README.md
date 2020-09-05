@@ -12,8 +12,10 @@ You can also know me as a developer of a not-yet-completed NosTale server emulat
 - 👑 Oh, yeah **I’m also a weeb. (ノಠ益ಠ)ノ彡┻━┻**
 
 ### 💻 Currently working on
-- [Scheduler](https://github.com/zakuciael/scheduler) an universal **schedule parser** and **calendar event** creator.
 - [Xeno's Tale](https://xenostale.pl) a not-yet-completed **NosTale server** emulator.
+
+### :page_with_curl: Plan to work on
+- [Scheduler](https://github.com/zakuciael/scheduler) an universal **schedule parser** and **calendar event** creator.
 
 ### 💬 Get in touch
 <a href="https://zakku.eu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Octicons-globe.svg" alt="zakku.eu" height="30" width="30" /></a>
