@@ -14,7 +14,7 @@ You can also know me as a developer of a not-yet-completed NosTale server emulat
 ### 💻 Currently working on
 - [Xeno's Tale](https://xenostale.pl) a not-yet-completed **NosTale server** emulator.
 
-### :page_with_curl: Plan to work on
+### 📃 Plans to work on
 - [Scheduler](https://github.com/zakuciael/scheduler) an universal **schedule parser** and **calendar event** creator.
 
 ### 💬 Get in touch
@@ -23,13 +23,7 @@ You can also know me as a developer of a not-yet-completed NosTale server emulat
 <a href="https://linkedin.com/in/zakuciael/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" alt="zakuciael" height="30" width="30" /></a>
 <a href="https://discord.com/users/208525547070816256/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/discord.svg" alt="ZaKKu#0001" height="30" width="30" /></a>
 
-### 📊 This week I spent my time on
-<!--START_SECTION:waka-->
-```text
-Java         11 hrs 50 mins  ██████████████████████░░░   87.49 % 
-TypeScript   1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-XML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
-<!--END_SECTION:waka-->
+### 📊 This week's stats
+Languages       |  Projects
+:-------------------------:|:-------------------------:
+![](https://gh-stats.zakku.eu/api/wakatime?username=zakuciael&type=langs&hide_title=true&bg_color=ffffff&hide_border=true)  |  ![](https://gh-stats.zakku.eu/api/wakatime?username=zakuciael&type=projects&hide_title=true&bg_color=ffffff&hide_border=true)
