@@ -24,6 +24,6 @@ You can also know me as a developer of a not-yet-completed NosTale server emulat
 <a href="https://discord.com/users/208525547070816256/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/discord.svg" alt="ZaKKu#0001" height="30" width="30" /></a>
 
 ### 📊 This week's stats
-Languages       |  Projects
+Top Languages       |  GitHub Stats
 :-------------------------:|:-------------------------:
-![](https://gh-stats.zakku.eu/api/wakatime?username=zakuciael&type=langs&hide_title=true&bg_color=ffffff&hide_border=true)  |  ![](https://gh-stats.zakku.eu/api/wakatime?username=zakuciael&type=projects&hide_title=true&bg_color=ffffff&hide_border=true)
+![](https://gh-stats.zakku.eu/api/wakatime?username=zakuciael&type=langs&hide=Properties,Other&hide_title=true&bg_color=ffffff&hide_border=true)  |  ![](https://gh-stats.zakku.eu/api?username=zakuciael&hide_title=true&bg_color=ffffff&hide_border=true)
