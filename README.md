@@ -1,8 +1,12 @@
-<h4 align="center">I’m a self-taught software developer looking to create tools that can solve people's problems.<br>
-You can also know me as a developer of a not-yet-completed NosTale server emulator called <a href="https://xenostale.pl">Xeno's Tale</a>.</h4>
-
-<br>
 <div align="center">
+  <h2>Hi there, I'm <a href="https://zakku.eu">Krzysztof Saczuk</a> <img src="Hi.gif" height="32" /></h2>
+  <h4>
+    A Self-Taught Software Developer and DevOps enthusiast.<br />
+    I'm also a Senior Software Developer at <a href="https://xenostale.pl">Xeno's Tale</a>.
+  </h4>
+
+  <br />
+
   <img alt="Java" src="icons/java.svg" width="32">&nbsp;
   <img alt="TypeScript" src="icons/typescript.svg" width="32">&nbsp;
   <img alt="Node.js" src="icons/node-dot-js.svg" width="32">&nbsp;
@@ -18,16 +22,8 @@ You can also know me as a developer of a not-yet-completed NosTale server emulat
   <img alt="GitHub Actions" src="icons/githubactions.svg" width="32" />
 </div>
 
-### 📔 Here is some info about me:
-- ❤️ My favorite coding languages are **JavaScript**, **TypeScript**, and **Java**.
-- 🎮 I love games like **Warframe** and **Monster Hunter: World**.
-- 🌐 My hometown is **Gdańsk, Poland**.
-- ⚡ I have **two 🐶s** and **two 🐱s**.
-- 💀 I’m not a fan of **Apple** and **Python**.
-- 🐧 But I’m a huge fan of **Linux** tho.
-- 👑 Oh, yeah **I’m also a weeb. (ノಠ益ಠ)ノ彡[┻━┻](https://anilist.co/user/ZaKKu/)**
+#
 
-### 📊 Geek's stats for this week
 Top Languages       |  GitHub Stats
 :-------------------------:|:-------------------------:
 ![](https://gh-stats.zakku.eu/api/wakatime?username=zakuciael&type=langs&hide=Properties,Other&hide_title=true&bg_color=ffffff&hide_border=true)  |  ![](https://gh-stats.zakku.eu/api?username=zakuciael&hide_title=true&bg_color=ffffff&hide_border=true)
