@@ -2,7 +2,7 @@
   <h2>Hi there, I'm <a href="https://zakku.eu">Krzysztof Saczuk</a> <img src="Hi.gif" height="32" /></h2>
   <h4>
     A Self-Taught Software Developer and DevOps enthusiast.<br />
-    I'm also a Senior Software Developer at <a href="https://xenostale.pl">Xeno's Tale</a>.
+    Tho, I'm mainly focussed on creating backend applications in Node.js.
   </h4>
 
   <br />
