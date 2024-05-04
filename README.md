@@ -1,29 +1,24 @@
-<div align="center">
-  <h2>Hi there, I'm <a href="https://zakku.eu">Krzysztof Saczuk</a> <img src="Hi.gif" height="32" /></h2>
-  <h4>
-    A Self-Taught Software Developer and DevOps enthusiast.<br />
-    Tho, I'm mainly focussed on creating backend applications in Node.js.
-  </h4>
+# Hey There! 👋
+**I'm a back-end developer, dreaming to over-complicate stuff for a living.**
 
-  <br />
+<img alt="I have big plans for this code. please, no mor refactors. big plans..." src="assets/big-plans.png" width="300px" align="right">
 
-  <img alt="Java" src="icons/java.svg" width="32">&nbsp;
-  <img alt="TypeScript" src="icons/typescript.svg" width="32">&nbsp;
-  <img alt="Node.js" src="icons/node-dot-js.svg" width="32">&nbsp;
-  <img alt="React" src="icons/react.svg" width="32" />&nbsp;
-  <img alt="Redux" src="icons/redux.svg" width="32" />&nbsp;
+### Few things about me
+- I hate dynamically typed languages. I guess it's a scar that JavaScript left in me.
+- I'm a daily driver and a big fan of Linux.  
+  Feel free to check out my dotfiles for [**Arch Linux**](https://github.com/zakuciael/dotfiles) and [**NixOS**](https://github.com/zakuciael/nixos-dotfiles).
+- I'm fascinated with DevOps solutions, so I've migrated my VPS from Docker to single-node Kubernetes, although I gained nothing from it except experience.
+- Back in the day, I was called **"Mr. Config"**, because I loved to configure stuff instead of working, but now I choose **zero-config** solutions whenever I can.
+- I'm an **overthinker** at heart, but I try to fight it off.
 
-  <img alt="Next.js" src="icons/next-dot-js.svg" width="32" />&nbsp;
-  <img alt="Electron" src="icons/electron.svg" width="32" />&nbsp;
-  <img alt="socket.io" src="icons/socket-dot-io.svg" width="32" />&nbsp;
-  <img alt="MySQL" src="icons/mysql.svg" width="32" />&nbsp;
-  <img alt="MongoDB" src="icons/mongodb.svg" width="32" />&nbsp;
-  <img alt="Docker" src="icons/docker.svg" width="32" />
-  <img alt="GitHub Actions" src="icons/githubactions.svg" width="32" />
-</div>
+### Tech that I've worked with or I'm passionate about
+<picture>
+ <!-- User prefers light mode: -->
+  <source srcset="https://skillicons.dev/icons?perline=10&theme=dark&i=rust%2Cts%2Cjs%2Chtml%2Ccss%2Cgit%2Cgithub%2Cgithubactions%2Cnodejs%2Cpnpm%2Ctailwind%2Creact%2Cnextjs%2Cpostgresql%2Cmongodb%2Cplanetscale%2Cprisma%2Cdocker%2Ckubernetes%2Cnginx%2Cterraform%2Ccloudflare%2Ctauri%2Celectron%2Cnestjs%2Cexpress%2Clinux%2Carch%2Cnix" media="(prefers-color-scheme: light)"/>
 
-#
+  <!-- User prefers dark mode: -->
+  <source srcset="https://skillicons.dev/icons?perline=10&theme=light&i=rust%2Cts%2Cjs%2Chtml%2Ccss%2Cgit%2Cgithub%2Cgithubactions%2Cnodejs%2Cpnpm%2Ctailwind%2Creact%2Cnextjs%2Cpostgresql%2Cmongodb%2Cplanetscale%2Cprisma%2Cdocker%2Ckubernetes%2Cnginx%2Cterraform%2Ccloudflare%2Ctauri%2Celectron%2Cnestjs%2Cexpress%2Clinux%2Carch%2Cnix"  media="(prefers-color-scheme: dark)"/>
 
-Top Languages       |  GitHub Stats
-:-------------------------:|:-------------------------:
-![](https://gh-stats.zakku.eu/api/wakatime?username=zakuciael&type=langs&hide=Properties,Other&hide_title=true&bg_color=ffffff&hide_border=true)  |  ![](https://gh-stats.zakku.eu/api?username=zakuciael&hide_title=true&bg_color=ffffff&hide_border=true)
+  <!-- User has no color preference: -->
+  <img src="https://skillicons.dev/icons?perline=10&theme=dark&i=rust%2Cts%2Cjs%2Chtml%2Ccss%2Cgit%2Cgithub%2Cgithubactions%2Cnodejs%2Cpnpm%2Ctailwind%2Creact%2Cnextjs%2Cpostgresql%2Cmongodb%2Cplanetscale%2Cprisma%2Cdocker%2Ckubernetes%2Cnginx%2Cterraform%2Ccloudflare%2Ctauri%2Celectron%2Cnestjs%2Cexpress%2Clinux%2Carch%2Cnix"/>
+</picture>
